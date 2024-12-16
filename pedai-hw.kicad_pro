@@ -58,7 +58,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "unconnected_items|101250000|79310000|becdeaa1-25fd-4cda-ba4e-fa0c6b24c45e|796a9a3f-e0a5-4977-8d88-62998cf08108"
+      ],
       "meta": {
         "version": 2
       },
@@ -130,7 +132,7 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.15,
-        "min_via_diameter": 0.65,
+        "min_via_diameter": 0.6,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
