@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CD4051BE'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "CD4051BE" (!) = "", "DIP794W53P254L1930H508Q16N", "Dual-In-Line Packages", "595-CD4051BE", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD4051BE?qs=q2XTDbzbm6DxulBsMcV7tA%3D%3D", "TEXAS INSTRUMENTS - CD4051BE - MULTIPLEXER, 8 CHANNEL, 16DIP", "http://www.ti.com/lit/ds/symlink/cd4051b.pdf", "5.08 mm"
+END_PART
+
+END.

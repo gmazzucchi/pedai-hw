@@ -1,0 +1,16 @@
+.CD4051BE :1 ;TEXAS INSTRUMENTS - CD4051BE - MULTIPLEXER, 8 CHANNEL, 16DIP
+DIP794W53P254L1930H508Q16N
+*STM IC
+*NGS
+*PLB 1="CH 4 IN/OUT" 2="CH 6 IN/OUT" 3="COM OUT/IN" 4="CH 7 IN/OUT" 5="CH 5 IN/OUT" 6="INH" 7="VEE" 8="VSS" 9="C" 10="B" 11="A" 12="CH 3 IN/OUT" 13="CH 0 IN/OUT" 14="CH 1 IN/OUT" 15="CH 2 IN/OUT" 16="VDD"
+*MXP 16
+*DFN CD4051BE
+~!Mouser Part Number (595-CD4051BE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD4051BE?qs=q2XTDbzbm6DxulBsMcV7tA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CD4051BE)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/cd4051b.pdf)
+~!Height (5.08mm)
+~!3D_Model (CD4051BE)
+CD4051BE
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 
