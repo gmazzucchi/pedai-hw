@@ -2967,7 +2967,7 @@
 	)
 	(rectangle
 		(start 109.22 99.06)
-		(end 156.21 120.65)
+		(end 156.21 111.76)
 		(stroke
 			(width 0)
 			(type default)
@@ -3901,70 +3901,6 @@
 			(project "pedai-hw"
 				(path "/b6e54648-49ac-4cc8-aea0-d315d4d08ac8"
 					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 115.57 114.3 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0dd13b20-fea6-4619-8f0b-3b0623c4d133")
-		(property "Reference" "H3"
-			(at 118.11 113.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 118.11 115.5699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 115.57 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 115.57 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 115.57 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "pedai-hw"
-				(path "/b6e54648-49ac-4cc8-aea0-d315d4d08ac8"
-					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -5436,70 +5372,6 @@
 			(project ""
 				(path "/b6e54648-49ac-4cc8-aea0-d315d4d08ac8"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 135.89 114.3 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cef63715-60bf-4a12-9e4c-a665c48019df")
-		(property "Reference" "H4"
-			(at 138.43 113.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 138.43 115.5699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 135.89 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 135.89 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 135.89 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "pedai-hw"
-				(path "/b6e54648-49ac-4cc8-aea0-d315d4d08ac8"
-					(reference "H4")
 					(unit 1)
 				)
 			)
