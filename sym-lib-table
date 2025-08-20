@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CD4051BQPWRQ1")(type "KiCad")(uri "/home/gmazzucchi/ssd/thirdparty/kicad_libraries/CD4051BQPWRQ1/KiCad/CD4051BQPWRQ1.kicad_sym")(options "")(descr ""))
+)
